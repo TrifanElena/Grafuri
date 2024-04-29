@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\elena\Desktop\ALGORITMICA GRAFURILOR\proiectgrafuri\main.cpp(178,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\elena\Desktop\ALGORITMICA GRAFURILOR\proiectgrafuri\main.cpp(185,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  proiectgrafuri.vcxproj -> C:\Users\elena\Desktop\ALGORITMICA GRAFURILOR\proiectgrafuri\x64\Debug\proiectgrafuri.exe
